@@ -64,15 +64,40 @@ textarea {
     width: 940px;
     margin-left: auto;
     margin-right: auto;
-    border: 1px solid #111;
+}
+
+h1 {
+    font-family: 'Text Me One', sans-serif;
+    font-size: 2em;
 }
 
 
+.blue {
+    color: #2488c9;
+}
 
+.orange {
+    color: #b53504;
+}
 
+.yellow {
+    color: #7c9504;
+}
 
+a{
+    text-decoration: none;
+}
+a:link {
+    color:#2488c9;
+}
 
+a:visited {
+    color:#2488c9;
+}
 
+header {
+    margin-top: 200px;
+}
 
 
 
@@ -154,6 +179,10 @@ textarea {
 
 .clearfix {
     *zoom: 1;
+}
+
+#container{
+    border-right: 1px solid #333;
 }
 
 /* ==========================================================================
