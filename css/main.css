@@ -66,9 +66,10 @@ textarea {
     margin-right: auto;
 }
 
-h1 {
+.head_copy {
     font-family: 'Text Me One', sans-serif;
     font-size: 2em;
+    margin-bottom: -10px;
 }
 
 
@@ -181,9 +182,7 @@ header {
     *zoom: 1;
 }
 
-#container{
-    border-right: 1px solid #333;
-}
+
 
 /* ==========================================================================
    Print styles
